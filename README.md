@@ -1,1 +1,4 @@
 # TimeFighter
+This is a basic counter game based on the course www.raywenderlich.com. The used language for the game is Kotlin and written on Android Studio. 
+The game includes a Tap Me! button in the middle of the screen where it starts the count down from 60 seconds and the goal is to tap as many times as you can before the time goes down. User can see how much time is left on the top-right hand corner of the screen and how many times did he/she has tapped the button on the top-left hand corner of the screen. Game consist of some minor animations like bouncing and blinking. After 60 seconds game automatically resets its settings and becomes available to play again. 
+I do not own the app icon. It can be found on Google Images with the following link: https://icon-library.com/images/icon-for-time/icon-for-time-0.jpg .
